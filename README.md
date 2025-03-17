@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali-Mansur Valiyev</h1>
 <h3 align="center">Passionate about the integration of CS with Finance and Sustainability</h3>
 
-- 🔭 I’m currently working on [EcoEducation](ecoeducation.net)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
